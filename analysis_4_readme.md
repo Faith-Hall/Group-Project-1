@@ -24,6 +24,7 @@ Resources:
     - Plots with 2 different scales:  https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
     - legend for two axes:  https://stackoverflow.com/questions/5484922/secondary-axis-with-twinx-how-to-add-to-legend
     - Matplotlib list of marker shapes:  https://matplotlib.org/stable/api/markers_api.html#module-matplotlib.markers
+    - savefig cutting off title at the top:  https://stackoverflow.com/questions/35992492/savefig-cuts-off-title
     - ...
 - Some articles we looked at for inspiration:
     - https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
