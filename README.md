@@ -6,3 +6,8 @@ Contributors:
 - Cassia Yoon  
 
 # Project Overview
+
+
+
+# Analysis 2 
+Created bar graphs by continent
