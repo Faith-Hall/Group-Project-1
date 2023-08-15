@@ -25,6 +25,7 @@ Resources:
     - legend for two axes:  https://stackoverflow.com/questions/5484922/secondary-axis-with-twinx-how-to-add-to-legend
     - Matplotlib list of marker shapes:  https://matplotlib.org/stable/api/markers_api.html#module-matplotlib.markers
     - savefig cutting off title at the top:  https://stackoverflow.com/questions/35992492/savefig-cuts-off-title
+    - legend location codes: https://www.geeksforgeeks.org/change-the-legend-position-in-matplotlib/
     - ...
 - Some articles we looked at for inspiration:
     - https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
