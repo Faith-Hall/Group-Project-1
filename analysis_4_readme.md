@@ -28,6 +28,7 @@ Resources:
     - legend location codes: https://www.geeksforgeeks.org/change-the-legend-position-in-matplotlib/
     - ...
 - Some articles we looked at for inspiration:
+    - https://www.disabled-world.com/fitness/longevity/#:~:text=Significant%20factors%20in%20life%20expectancy,%2C%20genetics%2C%20and%20lifestyle%20choices. 
     - https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10002415/
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631790/
