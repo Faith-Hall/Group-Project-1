@@ -21,6 +21,7 @@ The aim of our project was to determine if there is a correlation between energy
 - The correlation between energy consumption and life expectancy at birth and at age 15 have a logarithmic correlation.
 - Energy consumption past 35,000 kwh in the larger sample size, across all of the years in the dataset, has no correlation to life expectancy.
 - The correlation between energy consumption and life expectancy diminishes for the later age groups. 
+
 ---
 ### Analysis 2: Does higher energy consumption affect life expectancy (broken down by continents)?
 ![Analysis 2 graph 1](/Readme_imgs/A2_1.png)
