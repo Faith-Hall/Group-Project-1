@@ -94,12 +94,12 @@ We wish to thank our teaching staff:
 - Kourt Bailey
 ---
 ### Folder Structure:  
-* [analysis_1_figs/](./Group-Project-1/analysis_1_figs)
-  * [analysis_1_fig_1965-2022.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_1965-2022.png)
-  * [analysis_1_fig_2021.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_2021.png)
-  * [analysis_1_fig_GenAlpha.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenAlpha.png)
-  * [analysis_1_fig_GenX.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenX.png)
-  * [analysis_1_fig_GenZ.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenZ.png)
+* [analysis_1_figs/](/analysis_1_figs)
+  * [analysis_1_fig_1965-2022.png](/analysis_1_figs/analysis_1_fig_1965-2022.png)
+  * [analysis_1_fig_2021.png](/analysis_1_figs/analysis_1_fig_2021.png)
+  * [analysis_1_fig_GenAlpha.png](/analysis_1_figs/analysis_1_fig_GenAlpha.png)
+  * [analysis_1_fig_GenX.png](/analysis_1_figs/analysis_1_fig_GenX.png)
+  * [analysis_1_fig_GenZ.png](/analysis_1_figs/analysis_1_fig_GenZ.png)
   * [analysis_1_fig_Millennials.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_Millennials.png)
 * [analysis_4_figs/](./Group-Project-1/analysis_4_figs)
   * [analysis_4_fig_Africa.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_Africa.png)
