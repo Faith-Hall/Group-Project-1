@@ -47,19 +47,23 @@ What does this mean?
 - Life expectancy shows a steady increase over time regardless of energy type. This is likely due to the dependence of life expectancy on other factors such as nutrition and advancements in healthcare.
 - Albeit slow, growth in the use of renewables over fossil fuels can clearly be seen when examined over the time period of 1965 - 2022.
 ---
+
 ### Analysis 4: Is the life expectancy affected by type of energy consumption (renewable vs fossil fuels) in each continent?
-![Analysis 4 graphs](/Readme_imgs/A4.png)
+![Analysis 4 linegraphs](/Readme_imgs/A4.png)
+![Analysis 4 linear regression graphs](/Readme_imgs/A4_2.png)
 > [!NOTE]
 > To view each individual graph see folder "analysis_4_figs"
 
 <font size="3">**Analysis 4 Conclusions:**</font>  
-- Over the years, life expectancy at birth has increased over time in every continent from 1965 to 2022, similar to trends seen globally.
-- The use of renewable energy has increased gradually over the years in most continents (except Africa).
-- The use of fossil fuels has decreased over the years in Oceania, North America and Europe but this has not changed life expectancy trends.
-- Life expectancy does not appear to correlate with type of fuel consumed based on the graphs, even at the continents level.
+
+- Similar to trends seen globally, life expectancy at birth and use of renewable energy has increased over time in most continents.
+- The use of fossil fuels has decreased over the years in Oceania, North America and Europe but this does not appear to affect life expectancy.
+- There is a strong, positive correlation between life expectancy and overall energy consumption in South America.
+- There is a strong, positive correlation between life expectancy and fossil fuel consumption in Asia.
+- There is a strong, positive correlation between life expectancy and renewable fuel consumption in Europe.
 
 # Project Conclusions:  
-We acknowledge the limits of analyzing life expectancy against energy consumption alone. Life Expectancy is affected by many factors. According to an article, “Significant factors in life expectancy include gender, genetics, access to health care, hygiene, diet and nutrition, exercise, lifestyle, and crime rates.”<sup>[^1]</sup> However, transitioning to using more renewable energy can offer many health and environmental benefits, which may in turn improve our life expectancy. For future analysis considerations, we could also analyze life expectancy with additional factors (such as advances in healthcare over time, poverty, and air quality).  
+The analyses suggest that there is a correlation between energy consumption and life expectancy in some parts of the world. We acknowledge the limits of analyzing life expectancy against energy consumption alone. Life Expectancy is affected by many factors. According to an article, “Significant factors in life expectancy include gender, genetics, access to health care, hygiene, diet and nutrition, exercise, lifestyle, and crime rates.”<sup>[^1]</sup> However, transitioning to using more renewable energy can offer many health and environmental benefits, which may in turn improve our life expectancy. For future analysis considerations, we could also analyze life expectancy with additional factors (such as advances in healthcare over time, poverty, and air quality).  
 
 # Resources  
 Datasets used:
@@ -111,12 +115,19 @@ We wish to thank our teaching staff:
   * [analysis_4_fig_North_America.png](/analysis_4_figs/analysis_4_fig_North_America.png)
   * [analysis_4_fig_Oceania.png](/analysis_4_figs/analysis_4_fig_Oceania.png)
   * [analysis_4_fig_South_America.png](/analysis_4_figs/analysis_4_fig_South_America.png)
+  * [analysis_4-2_fig_Africa.png](/analysis_4_figs/analysis_4-2_fig_Africa.png)
+  * [analysis_4-2_fig_Asia.png](/analysis_4_figs/analysis_4-2_fig_Asia.png)
+  * [analysis_4-2_fig_Europe.png](/analysis_4_figs/analysis_4-2_fig_Europe.png)
+  * [analysis_4-2_fig_North_America.png](/analysis_4_figs/analysis_4-2_fig_North_America.png)
+  * [analysis_4-2_fig_Oceania.png](/analysis_4_figs/analysis_4-2_fig_Oceania.png)
+  * [analysis_4-2_fig_South_America.png](/analysis_4_figs/analysis_4-2_fig_South_America.png)
 * [Readme_imgs/](/Readme_imgs)
   * [A1.png](/Readme_imgs/A1.png)
   * [A2_1.png](/Readme_imgs/A2_1.png)
   * [A2_2.png](/Readme_imgs/A2_2.png)
   * [A3_1.png](/Readme_imgs/A3_1.png)
   * [A3_2.png](/Readme_imgs/A3_2.png)
+  * [A4_2.png](/Readme_imgs/A4_2.png)
   * [A4.png](/Readme_imgs/A4.png)
 * [Resources/](/Resources)
   * [owid-energy-data.csv](/Resources/owid-energy-data.csv)
