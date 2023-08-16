@@ -14,21 +14,13 @@ The aim of our project was to determine if there is a correlation between energy
 ---
 ### Analysis 1: What is the correlation of global life expectancy to overall per capita energy consumption?
 ![Analysis 1 graph](/Readme_imgs/A1.png)
-<<<<<<< HEAD
 > [!NOTE]
-=======
->>>>>>> 12fda8cb9b14d5afeb9f4c672513adf05261b725
 > This analysis was also done by generation. See additional graphs in the folder "analysis_1_figs"  
 
 <font size="3">**Analysis 1 Conclusions:**</font>  
-- The correlation between energy consumption and life expectancy at birth and at age 15 have a logarithmic correlation.  
-- Energy consumption past 35,000 in the larger sample size, across all of the years in the dataset, has no correlation to life expectancy.
-<<<<<<< HEAD
-- The correlation slowly diminishes for the later age groups. 
-=======
-- The correlation slowly diminishes for the later age groups.  
->>>>>>> 12fda8cb9b14d5afeb9f4c672513adf05261b725
-
+The correlation between energy consumption and life expectancy at birth and at age 15 have a logarithmic correlation.  
+Energy consumption past 35,000 in the larger sample size, across all of the years in the dataset, has no correlation to life expectancy.
+The correlation slowly diminishes for the later age groups. 
 ---
 ### Analysis 2: Does higher energy consumption affect life expectancy (broken down by continents)?
 ![Analysis 2 graph 1](/Readme_imgs/A2_1.png)
