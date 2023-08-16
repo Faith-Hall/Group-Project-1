@@ -11,9 +11,6 @@ The aim of our project was to determine if there is a correlation between energy
 2. Does higher energy consumption affect life expectancy (broken down by continents)?
 3. Is global life expectancy affected by type of energy consumption (renewable vs fossil fuels)?
 4. Is the life expectancy affected by type of energy consumption (renewable vs fossil fuels) in each continent?
-
-Folder Structure:  
-
 ---
 ### Analysis 1: What is the correlation of global life expectancy to overall per capita energy consumption?
 ![Analysis 1 graph](/Readme_imgs/A1.png)
@@ -68,11 +65,16 @@ Datasets used:
 - Life Expectancy dataset: https://web.archive.org/web/20230728063248/https://population.un.org/wpp/Download/Standard/CSV/
 
 For coding work:
+- How to replace column values:  https://sparkbyexamples.com/pandas/pandas-replace-by-examples/
 - Plots with 2 different scales:  https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html
 - legend for two axes:  https://stackoverflow.com/questions/5484922/secondary-axis-with-twinx-how-to-add-to-legend
 - Matplotlib list of marker shapes:  https://matplotlib.org/stable/api/markers_api.html#module-matplotlib.markers
 - savefig cutting off title at the top:  https://stackoverflow.com/questions/35992492/savefig-cuts-off-title
 - legend location codes: https://www.geeksforgeeks.org/change-the-legend-position-in-matplotlib/
+- GH006 git push error solution:  https://stackoverflow.com/questions/52589285/cannot-push-on-github-suddently
+- list of git branches commands:  https://www.nobledesktop.com/learn/git/git-branches
+- clearing git commits:  https://stackoverflow.com/questions/1146973/how-do-i-revert-all-local-changes-in-git-managed-project-to-previous-state
+- Readme formatting:  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Some articles we looked at for inspiration:
 - https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
@@ -82,7 +84,6 @@ Some articles we looked at for inspiration:
 - Research article on relationship of life expectancy to energy: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull26-3/26304044950.pdf
 - Another article, but with more of a focus on renewable energy vs life expectancy: https://www.emerald.com/insight/content/doi/10.1108/IJESM-11-2022-0001/full/html
 
-
 [^1]: https://www.disabled-world.com/fitness/longevity/#:~:text=Significant%20factors%20in%20life%20expectancy,%2C%20genetics%2C%20and%20lifestyle%20choices. 
 
 # Acknowledgements
@@ -91,3 +92,39 @@ We wish to thank our teaching staff:
 - Sam Espe
 - Randy Sendek
 - Kourt Bailey
+---
+### Folder Structure:  
+* [analysis_1_figs/](./Group-Project-1/analysis_1_figs)
+  * [analysis_1_fig_1965-2022.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_1965-2022.png)
+  * [analysis_1_fig_2021.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_2021.png)
+  * [analysis_1_fig_GenAlpha.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenAlpha.png)
+  * [analysis_1_fig_GenX.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenX.png)
+  * [analysis_1_fig_GenZ.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_GenZ.png)
+  * [analysis_1_fig_Millennials.png](./Group-Project-1/analysis_1_figs/analysis_1_fig_Millennials.png)
+* [analysis_4_figs/](./Group-Project-1/analysis_4_figs)
+  * [analysis_4_fig_Africa.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_Africa.png)
+  * [analysis_4_fig_Asia.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_Asia.png)
+  * [analysis_4_fig_Europe.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_Europe.png)
+  * [analysis_4_fig_North_America.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_North_America.png)
+  * [analysis_4_fig_Oceania.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_Oceania.png)
+  * [analysis_4_fig_South_America.png](./Group-Project-1/analysis_4_figs/analysis_4_fig_South_America.png)
+* [Readme_imgs/](./Group-Project-1/Readme_imgs)
+  * [A1.png](./Group-Project-1/Readme_imgs/A1.png)
+  * [A2_1.png](./Group-Project-1/Readme_imgs/A2_1.png)
+  * [A2_2.png](./Group-Project-1/Readme_imgs/A2_2.png)
+  * [A3_1.png](./Group-Project-1/Readme_imgs/A3_1.png)
+  * [A3_2.png](./Group-Project-1/Readme_imgs/A3_2.png)
+  * [A4.png](./Group-Project-1/Readme_imgs/A4.png)
+* [Resources/](./Group-Project-1/Resources)
+  * [owid-energy-data.csv](./Group-Project-1/Resources/owid-energy-data.csv)
+  * [WPP2022_Demographic_Indicators_Medium.csv](./Group-Project-1/Resources/WPP2022_Demographic_Indicators_Medium.csv)
+* [.gitignore](./Group-Project-1/.gitignore)
+* [analysis_1.ipynb](./Group-Project-1/analysis_1.ipynb)
+* [analysis_2.ipynb](./Group-Project-1/analysis_2.ipynb)
+* [analysis_3.ipynb](./Group-Project-1/analysis_3.ipynb)
+* [analysis_4.ipynb](./Group-Project-1/analysis_4.ipynb)
+* [dataset_cleanup.ipynb](./Group-Project-1/dataset_cleanup.ipynb)
+* [energyLEclean_NA.csv](./Group-Project-1/energyLEclean_NA.csv)
+* [energyLEclean_NA_continents.csv](./Group-Project-1/energyLEclean_NA_continents.csv)
+* [energyLEclean_NA_energy_sources.csv](./Group-Project-1/energyLEclean_NA_energy_sources.csv)
+* [README.md](./Group-Project-1/README.md)
