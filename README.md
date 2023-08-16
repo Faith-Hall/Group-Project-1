@@ -75,6 +75,7 @@ For coding work:
 - list of git branches commands:  https://www.nobledesktop.com/learn/git/git-branches
 - clearing git commits:  https://stackoverflow.com/questions/1146973/how-do-i-revert-all-local-changes-in-git-managed-project-to-previous-state
 - Readme formatting:  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- how to insert folder structure to readme: https://medium.com/@shradhaagarwal01/how-to-represent-folder-directory-tree-with-links-in-github-readme-in-less-than-5-minutes-84230fdcb1
 
 Some articles we looked at for inspiration:
 - https://www.climatecouncil.org.au/11-countries-leading-the-charge-on-renewable-energy/
