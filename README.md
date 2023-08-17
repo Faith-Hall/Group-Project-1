@@ -2,6 +2,7 @@
 <font size="3">**Group-Project-1: Team 6**  
 **Contributors:** Kyle Dalton, Faith Hall, Thomas Keene, Cassia Yoon  
 **Github link:** https://github.com/Faith-Hall/Group-Project-1</font>
+**Slide link:** https://docs.google.com/presentation/d/1DSr3_O2OVHAVpbSOfo72kpphd2Cr3JQx/edit?usp=sharing&ouid=112791377453488755006&rtpof=true&sd=true</font>
 
 ## Project Overview  
 The aim of our project was to determine if there is a correlation between energy consumption and life expectancy. We have examined consumption of energy per capita, type of energy source and life expectancy around the world and in each continent. The goal of these analyses are to provide the reader with an overall picture of the impact of energy consumption on life expectancy. 
